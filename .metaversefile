@@ -1,4 +1,5 @@
 {
   "name": "infinistreet",
+  "description": "infinistreet",
   "start_url": "index.js"
 }
